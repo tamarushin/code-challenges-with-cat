@@ -1,0 +1,22 @@
+{
+  "name": "code-challenges-with-cat",
+  "version": "1.0.0",
+  "description": "Write a function named isNum that takes in a string or number of any length. This function should use a regular expression pattern to return true if the input contains a number, and false if the input does not contain a number. For example:  12345 returns true '12345' returns true 'h3llo world' returns true 'hello world' returns false",
+  "main": "jest.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamarushin/code-challenges-with-cat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamarushin/code-challenges-with-cat/issues"
+  },
+  "homepage": "https://github.com/tamarushin/code-challenges-with-cat#readme",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
